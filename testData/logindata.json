@@ -1,0 +1,13 @@
+{ 
+	"data":[ 
+		{ 
+			"emailAddress":"sowmya@gmail.com",
+			"password":"password"
+		},
+		{ 
+			"emailAddress":"benokeb133@spotshops.com",
+			"password":"password123!"
+		}
+	]
+
+}
